@@ -1,7 +1,0 @@
-${manifest.midlets}MicroEdition-Configuration: CLDC-1.8
-MIDlet-Jar-Size: 3869
-MIDlet-Jar-URL: core.jar
-MIDlet-Name: core
-MIDlet-Vendor: v-mudrak-8L
-MIDlet-Version: 1.0
-MicroEdition-Profile: MEEP-8.0
