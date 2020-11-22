@@ -3,4 +3,6 @@
 Under Construction
 
 
-## Un-tested and dangerous
+### Goal
+
+A node library for raspberry pi utilities. 
